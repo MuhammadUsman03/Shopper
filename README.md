@@ -21,6 +21,9 @@ The website provides a clean and responsive shopping experience where users can 
 - **HTML5 & CSS3**
 - **React Hooks (useState, useEffect)** for state management
 
+## 🌐 Live Demo
+Check out the live website here: ([https://edusity-iota-five.vercel.app/](https://shopper-iota-mauve.vercel.app/))
+
 ---
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
